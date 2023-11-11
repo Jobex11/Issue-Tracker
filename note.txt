@@ -1,6 +1,6 @@
 ==============  PART 2  =====================
-time: 00:16:10
-
+time: 00:17:43
+nb-> go to mosh.issue tracker on githun to get code.
 
 WHAT YOU SHOULD KNOW 
 - Client and Server componenets 
