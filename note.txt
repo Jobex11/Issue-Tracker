@@ -1,0 +1,63 @@
+==============  PART 2  =====================
+
+WHAT YOU SHOULD KNOW 
+- Client and Server componenets 
+- Routing 
+- Building APIs 
+- Database integration with prism. 
+- Authentication with Nextauth.js 
+- Basics of TailwindCSS
+
+
+=================
+ROADMAP
+=================
+time 4:37  
+
+
+HOW TO TAKE THIS COURSE 
+best coding practicess . 
+-> Watch -> Take Notes -> then try it yourself
+PROJECT ROADMAP 
+Mosh , I don't know how to start and finish a project. 
+- Classify your features into Core(essential) and Advance features(nice to have)
+
+CORE(essential) => ability to create an issues , viewing issues, updating an issures ,
+delete an  issues , 
+
+ADVANCE(nice to have) => user authentication, assigning issuesm sorting issues, 
+filtering issures, pagination and dashboard. 
+Refactoring -> make it work first . then improve it .
+
+=================
+SETTING UP THE DEVELOPMENT ENVIRONMENT.
+=================
+time 6:50 
+
+installed vscode extensio for  
+tailwindcss, prisma, typescript and react-redux extenstion. 
+
+
+==================
+CREATE A NEXTJS PROJECT.
+===================
+time:8:09
+
+
+ pages or component. 
+==================
+===================
+time:
+
+
+==================
+===================
+time:
+
+==================
+===================
+time:
+
+==================
+===================
+time:
