@@ -1,4 +1,6 @@
 ==============  PART 2  =====================
+time: 00:16:10
+
 
 WHAT YOU SHOULD KNOW 
 - Client and Server componenets 
@@ -61,3 +63,9 @@ time:
 ==================
 ===================
 time:
+
+    =========  NPM INSTALLATION   =========== 
+    - npm install react-icons --save 
+    - npm i react-icons@4.11.0
+
+    =========   ERRORS AND DEBUGGING   ========
