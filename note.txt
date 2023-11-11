@@ -1,5 +1,6 @@
 ==============  PART 2  =====================
-time: 00:17:43
+time:  27:48
+
 nb-> go to mosh.issue tracker on githun to get code.
 
 WHAT YOU SHOULD KNOW 
@@ -48,14 +49,31 @@ time:8:09
 
  pages or component. 
 ==================
+STYLING THE ACTIVE LINK
 ===================
-time:
+time 0:19:55
+
+class was installed in this section. 
+
+
+commit => Style the active link in the navbar.  
 
 
 ==================
+INSTALLING MySQL
 ===================
-time:
+time: 26:11
 
+-in this section we are going to be using mysql 
+for storing our data. 
+-Mysql is a very popular database engine.
+other database engines are  
+Postgres, MongoDB and Mysql
+
+
+
+-> download Mysql for window.
+-> MySQl workbench for window.
 ==================
 ===================
 time:
@@ -65,7 +83,9 @@ time:
 time:
 
     =========  NPM INSTALLATION   =========== 
+
     - npm install react-icons --save 
     - npm i react-icons@4.11.0
+    - npm i classnames@2.3.2
 
     =========   ERRORS AND DEBUGGING   ========
