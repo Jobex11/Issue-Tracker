@@ -1,5 +1,5 @@
 ==============  PART 2  =====================
-time:  27:48
+time:  30:13
 
 nb-> go to mosh.issue tracker on githun to get code.
 
@@ -74,18 +74,40 @@ Postgres, MongoDB and Mysql
 
 -> download Mysql for window.
 -> MySQl workbench for window.
-==================
-===================
-time:
 
 ==================
+
+SETTING UP PRISMA
 ===================
-time:
+time:28:11 
+
+After inalling prisma 
+after running npx prisma two things happened. 
+-It creates a prisma folder
+
+
+commit => Setup prisma 
+
+
+==================
+CREATING THE ISSUE MODEL
+===================
+time: 29:58 
+
+
+
+=> mysql configuration file have not successfully complete.
+
+
 
     =========  NPM INSTALLATION   =========== 
 
+    downloaded mysql 
+    downloaded datagrid form jetbrains
     - npm install react-icons --save 
     - npm i react-icons@4.11.0
     - npm i classnames@2.3.2
+    - npm i prisma@5.3.1
+    - npx prisma init
 
     =========   ERRORS AND DEBUGGING   ========
