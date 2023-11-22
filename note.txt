@@ -1,5 +1,5 @@
 ==============  PART 2  =====================
-time:  30:13
+time:  55:29
 
 nb-> go to mosh.issue tracker on githun to get code.
 
@@ -94,9 +94,52 @@ CREATING THE ISSUE MODEL
 ===================
 time: 29:58 
 
-
-
 => mysql configuration file have not successfully complete.
+
+
+commit => create the issue model
+
+==================
+ BUILDING AN API
+==================
+time: 36:38 
+
+to store issues we have to create api that clients can call.. 
+
+for data validation we use Zod
+===> serious Error on vdo
+============
+SETTING UP RADIX UI
+============
+Time:43:34
+radix ui is very good component library.
+
+============
+CUSTOMIZING RADIZ UI THEME
+============
+Time:51:07
+
+
+============
+BUILD THE NEW ISSUE PAGE 
+============
+Time: 46:07 
+
+============
+ADDING A MARKDOWN EDITOR
+============
+Time: 56:58
+
+
+============
+HANDLING FORM SUBMISSION
+============
+Time: 58:56
+
+
+
+
+
 
 
 
@@ -108,6 +151,22 @@ time: 29:58
     - npm i react-icons@4.11.0
     - npm i classnames@2.3.2
     - npm i prisma@5.3.1
+    - npm install @prisma/client
     - npx prisma init
+    - npx prisma format  (arrange the prisma file.)
+    - npx prisma migrate dev
+    - npm i zod@3.22.2
+    - npm install @radix-ui/themes [he installed version 1.1.2 which i didn't]
+    - npm install --save react-simplemde-editor easymde
+    - npm i react-hook-form@7.46.1
+    
 
+
+    -> the version of prisma running on my device might be diferent form 
+    the one written above.
+    -> 
     =========   ERRORS AND DEBUGGING   ========
+    1. error from prisma.client in the postman
+    2. the font didn't change form apple to inter which is used by nextjs 
+    application by default. 
+    apple font is used by radix ui compnents.
