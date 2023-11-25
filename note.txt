@@ -149,6 +149,12 @@ IMPLEMENTING CLIENT-SIDE VALIDATION
 ===========
 time: 1:14:29
 
+
+===========
+EXTRACTING THE ERROR MESSAGE COMPONENT
+===========
+time: 1:20:46
+
     =========  NPM INSTALLATION   =========== 
 
     downloaded mysql 
