@@ -160,6 +160,20 @@ ADDING A SPINNER
 ===========
 time: 1:24:07
 
+
+===========
+DISCUSSION: CODE ORGANIZATION
+===========
+time: 1:24:07
+
+
+SEPERATION OF CONCERNS 
+- Seperate a program into distinct modules each having a 
+seperate concern. 
+- If concerns are well seperated, there are more 
+opportunites for code reuse.
+
+
     =========  NPM INSTALLATION   =========== 
 
     downloaded mysql 
