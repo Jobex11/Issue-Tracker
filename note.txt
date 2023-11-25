@@ -1,5 +1,5 @@
 ==============  PART 2  =====================
-time:  55:29
+time:  1:07:33
 
 nb-> go to mosh.issue tracker on githun to get code.
 
@@ -137,11 +137,17 @@ HANDLING FORM SUBMISSION
 Time: 58:56
 
 
+to send the data to an api we use axios.
 
+============
+HANDLING ERRORS
+============
+Time: 1:07:38
 
-
-
-
+===========
+IMPLEMENTING CLIENT-SIDE VALIDATION
+===========
+time: 1:14:29
 
     =========  NPM INSTALLATION   =========== 
 
@@ -159,7 +165,7 @@ Time: 58:56
     - npm install @radix-ui/themes [he installed version 1.1.2 which i didn't]
     - npm install --save react-simplemde-editor easymde
     - npm i react-hook-form@7.46.1
-    
+    - npm i axios@1.5.0
 
 
     -> the version of prisma running on my device might be diferent form 

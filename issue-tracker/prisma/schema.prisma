@@ -3,6 +3,7 @@
 
 generator client {
   provider = "prisma-client-js"
+  //output   = "./generated.client"
 }
 
 datasource db {
@@ -24,5 +25,3 @@ enum Status {
   IN_PROGRESS
   CLOSED
 }
-
-//enums are not supported in all database
