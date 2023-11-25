@@ -155,6 +155,11 @@ EXTRACTING THE ERROR MESSAGE COMPONENT
 ===========
 time: 1:20:46
 
+===========
+ADDING A SPINNER
+===========
+time: 1:24:07
+
     =========  NPM INSTALLATION   =========== 
 
     downloaded mysql 
